@@ -70,9 +70,8 @@ This project demonstrates how machine learning can effectively predict customer 
 
 ## Contributions
 
-- **Sumit Pandey**: Data analysis, model selection, EDA.
-- **Saloni Raut**: Data preprocessing, model training, evaluation, hyperparameter tuning.
-
+- **Sumit Pandey**:Data Preprocessing,Model Development,Evaluation Metrics, 
+- **Saloni Raut**: EDA,Feature Engineering,Final Report Compilation
 ## References
 
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
